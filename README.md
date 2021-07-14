@@ -1,2 +1,2 @@
 # fsn-constitution
-The digitally typeset constitution of the Favor Solutions Network
+The Digitally Typeset Constitution of the Favor Solutions Network
