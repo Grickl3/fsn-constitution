@@ -1,43 +1,94 @@
 
 /* ======================= HEADER ============= */
 
-	.type-head-1 {}
-	.type-head-2 {}
-	.type-head-3 {}
+	.type-head-1 {
+		display: block;
+		margin: -1rem 0 -1rem 2rem;
+		font-family: 'Cormorant Unicase', Garamond, serif;
+		font-weight: 300;
+		font-size: 1.8rem;
+		letter-spacing: 3rem;
+		color: #601d46;
+	}
 
-h1 {
-	font-family: 'Cormorant Garamond', Garamond, Times, serif;
-	font-weight: 300;
-	font-size: 4rem;
-	color: #601d46;
-}
+	.type-head-2 {
+		display: block;
+		margin: -1.5rem 0 -1rem 0;
+		font-family: 'Cormorant Unicase', Garamond, serif;
+		font-weight: 700;
+		font-size: 5rem;
+		color: #601d46;
+	}
 
-h2 {
-	text-align: center;
-	font-family: 'Cormorant Garamond', Garamond, Times, serif;
-	font-weight: 300;
-	font-size: 3rem;
-	color: #601d46;
-}
+	.type-head-3 {
+		display: block;
+		font-family: 'Cormorant Unicase', Garamond, serif;
+		font-weight: 300;
+		font-size: 2.6rem;
+		color: #601d46;
+	}
 
-h3 {
-	font-family: 'Cormorant Garamond', Garamond, Times, serif;
-	font-weight: 500;
-	font-size: 2rem;
-	color: #601d46;
-}
+/* ======================= BASICS ============= */
+	h1 {
+		font-family: 'Cormorant Infant', Garamond, Times, serif;
+		font-weight: 300;
+		font-size: 4rem;
+		color: #601d46;
+	}
 
-p {
-	font-family: 'Cormorant Garamond', Garamond, Times, serif;
-	font-weight: 300;
-	font-size: 1.3rem;
-	color: #424242;
-}
+	h2 {
+		text-align: center;
+		font-family: 'Cormorant Infant', Garamond, Times, serif;
+		font-weight: 300;
+		font-size: 3rem;
+		color: #601d46;
+	}
 
-a { 
-	color: #747c81;
-	text-decoration: none;
-	font-weight: 500;
-}
-a:hover { color: #601d46; }
+	h3 {
+		font-family: 'Cormorant Infant', Garamond, Times, serif;
+		font-weight: 500;
+		font-size: 2rem;
+		color: #601d46;
+	}
+
+	p,li {
+		font-family: 'Cormorant Infant', Garamond, Times, serif;
+		font-weight: 300;
+		font-size: 1.3rem;
+		color: #424242;
+	}
+
+	a { 
+		color: #601d46;
+		text-decoration: none;
+		font-weight: 500;
+	}
+	a:hover { color: #e79f39; }
+	a:active { color: #e79f39; }
+
+
+/* ======================= SPECIAL § ============= */
+
+	.layout__special-section {
+		padding: 20px;
+		background-color: #c1d1e1;
+	}
+
+	.type__immutable {
+		/*margin-left: 1rem;*/
+		padding: 0 1rem;
+		border-left: 6px solid #601d46;
+		font-weight: 700;
+		font-size: 1.6rem; 
+	}
+
+
+
+
+
+
+
+
+
+
 

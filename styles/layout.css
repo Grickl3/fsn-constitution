@@ -39,3 +39,21 @@
 		transform: translateX(-50%);
 	}
 }
+
+/* =============================== IMAGES ======= */
+	.layout__favor-crest { 
+		margin-top: 5rem;
+		margin-bottom: 5rem;
+		margin-left: 50%;
+		transform: translateX(-50%);
+		width: 30vw; }
+	.layout__sqglz-logo {
+		margin-left: 50vw;
+		transform: translateX(-50%);
+		width: 76px;
+	}
+
+
+.small-space { width: 5px; height: 50px; }
+.medium-space { width: 5px; height: 100px; }
+.large-space { width: 5px; height: 200px; }
