@@ -1,5 +1,9 @@
 
+/* ======================= HEADER ============= */
 
+	.type-head-1 {}
+	.type-head-2 {}
+	.type-head-3 {}
 
 h1 {
 	font-family: 'Cormorant Garamond', Garamond, Times, serif;
@@ -7,3 +11,33 @@ h1 {
 	font-size: 4rem;
 	color: #601d46;
 }
+
+h2 {
+	text-align: center;
+	font-family: 'Cormorant Garamond', Garamond, Times, serif;
+	font-weight: 300;
+	font-size: 3rem;
+	color: #601d46;
+}
+
+h3 {
+	font-family: 'Cormorant Garamond', Garamond, Times, serif;
+	font-weight: 500;
+	font-size: 2rem;
+	color: #601d46;
+}
+
+p {
+	font-family: 'Cormorant Garamond', Garamond, Times, serif;
+	font-weight: 300;
+	font-size: 1.3rem;
+	color: #424242;
+}
+
+a { 
+	color: #747c81;
+	text-decoration: none;
+	font-weight: 500;
+}
+a:hover { color: #601d46; }
+

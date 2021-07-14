@@ -1,0 +1,41 @@
+
+
+
+.layout__header-box {
+	text-align: center;
+}
+
+.layout__header-box-1 {
+
+}
+
+.layout__header-box-2 {
+
+}
+
+.layout__header-box-3 {
+
+}
+
+.layout__constitution-box {
+	max-width: 40rem;
+}
+
+@media (max-width: 699px) {
+	.layout__constitution-box {
+		margin: 0 10px;
+	}
+}
+
+@media (min-width: 700px) and (max-width: 1079px) {
+	.layout__constitution-box {
+		margin: 0 10vw;
+	}
+}
+
+@media (min-width: 1080px) {
+	.layout__constitution-box {
+		margin-left: 50vw;
+		transform: translateX(-50%);
+	}
+}
