@@ -80,7 +80,16 @@
 		width: 100%;
 	}
 
-
+.hidden { display: none; }
 .small-space { width: 5px; height: 50px; }
 .medium-space { width: 5px; height: 100px; }
 .large-space { width: 5px; height: 200px; }
+
+
+
+
+
+
+
+
+
