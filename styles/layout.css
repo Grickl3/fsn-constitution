@@ -1,21 +1,13 @@
 
 
-
-.layout__header-box {
-	text-align: center;
+.layout__header-img {
+	margin-top: 6rem;
+	margin-bottom: 4rem;
+	margin-left: 50vw;
+	transform: translateX(-50%);
+	max-width: 60vw;
 }
 
-.layout__header-box-1 {
-
-}
-
-.layout__header-box-2 {
-
-}
-
-.layout__header-box-3 {
-
-}
 
 .layout__constitution-box {
 	max-width: 40rem;

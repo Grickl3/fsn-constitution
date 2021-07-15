@@ -1,32 +1,4 @@
 
-/* ======================= HEADER ============= */
-
-	.type-head-1 {
-		display: block;
-		margin: -1rem 0 -1rem 2rem;
-		font-family: 'Cormorant Unicase', Garamond, serif;
-		font-weight: 300;
-		font-size: 1.8rem;
-		letter-spacing: 3rem;
-		color: #601d46;
-	}
-
-	.type-head-2 {
-		display: block;
-		margin: -1.5rem 0 -1rem 0;
-		font-family: 'Cormorant Unicase', Garamond, serif;
-		font-weight: 700;
-		font-size: 5rem;
-		color: #601d46;
-	}
-
-	.type-head-3 {
-		display: block;
-		font-family: 'Cormorant Unicase', Garamond, serif;
-		font-weight: 300;
-		font-size: 2.6rem;
-		color: #601d46;
-	}
 
 /* ======================= BASICS ============= */
 	h1 {
